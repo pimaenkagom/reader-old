@@ -9,5 +9,5 @@ void main() {
 
   loadAsset().then((settings) => { print(settings) });
 
-  runApp(const MyApp());
+  runApp(const App());
 }
